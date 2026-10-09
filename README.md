@@ -22,11 +22,11 @@ Microsoft Power BI, DAX, Data Visualization and Data Analysis.
 
 ## Dashboard
 
-The dashboard screenshots are available in the `IPL_Analytics_Dashboard.pdf` file in this repository.
+The dashboard screenshots are available in the `IPL performance_analytics.pdf` file in this repository.
 
 ## What I Learned
 
-This project helped me practise building interactive dashboards, presenting cricket statistics visually and exploring patterns in match data.
+This project helped me understand the IPL dataset, break down the data into meaningful categories, and identify the key metrics needed for each visual. I created individual DAX measures to calculate and analyse these metrics, then used them to build an interactive Power BI dashboard that presents team and player performance, toss outcomes, and venue trends in a clear and simple way.
 
 ## Author
 
