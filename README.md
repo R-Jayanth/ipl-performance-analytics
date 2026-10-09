@@ -1,5 +1,3 @@
-# ipl-performance-analytics
-Interactive Power BI dashboard analysing IPL team performance, player statistics, toss outcomes and match trends.
 # IPL Performance Analysis using Power BI
 
 This project explores IPL match data using Power BI to understand team performance, player statistics and match trends.
